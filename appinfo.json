@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "hello@josephbuluran.com",
+    "longName": "FirstBLUEMoon",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "FirstBLUEMoon",
+    "uuid": "03a8ed90-a3db-456c-8ad8-db8977409d6d",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
